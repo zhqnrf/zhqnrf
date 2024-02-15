@@ -1,6 +1,6 @@
 # Halo, saya Zhaqian Rouf Alfauzi! 👋
 
-## Seorang Frontend Web Developer yang Sedang Belajar Mobile Development 🚀
+## Frontend Web Developer || Mobile Development 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/zhqnrf?style=social) ![GitHub stars](https://img.shields.io/github/stars/zhqnrf?style=social)
 
