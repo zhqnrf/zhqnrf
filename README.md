@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/zhqnrf?style=social) ![GitHub stars](https://img.shields.io/github/stars/zhqnrf?style=social)
 
-### Bahasa yang Saya Kuasai:
+### Use:
 ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
@@ -14,7 +14,6 @@
 
 
 
-### Jangan Ragu untuk Terhubung!
+### Connect
 [LinkedIn](https://www.linkedin.com/in/zhaqian-rouf-alfauzi-1a536921b/) | [Twitter](https://twitter.com/roufalfa)
 
-Terima kasih sudah mampir ke profil saya! Semoga harimu menyenangkan! 😊
