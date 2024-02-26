@@ -12,7 +12,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhqnrf&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhqnrf&show_icons=true&theme=radical)
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/zhaqian-rouf-alfauzi-1a536921b/) | [Twitter](https://twitter.com/roufalfa)
