@@ -20,7 +20,4 @@ I'm a **Web Developer** and **Mobile Developer** passionate about building digit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhqnrf&layout=compact&theme=dark)
 
-## 📫 How to reach me:
 
-- Email: zhqnrf@gmail.com
-- LinkedIn: [Zhaqian Rouf Alfauzi](https://linkedin.com/in/zhqnrf)
