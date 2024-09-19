@@ -1,4 +1,5 @@
 # Hi there, I'm Zhaqian Rouf Alfauzi 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Mobile+Developer;Passionate+about+Technology)
 
 I'm a **Web Developer** and **Mobile Developer** passionate about building digital experiences that make an impact. I love exploring new technologies and applying them to solve real-world problems.
 
