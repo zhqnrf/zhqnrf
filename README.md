@@ -5,7 +5,8 @@ I'm a **Web Developer** and **Mobile Developer** passionate about building digit
 ## 🛠️ Technologies & Tools
 
 - **Web Development**: HTML, CSS, JavaScript, React.js, Tailwind, Laravel, PHP
-- **Mobile Development**: Android (Java, Kotlin)
+- **Mobile Development**: Android (Kotlin)
+- **Multi App** : Flutter
 - **Databases**: MySQL, Firebase
 - **Version Control**: Git, GitHub
 - **Others**: REST APIs, Swiper.js, Hammer.js, jQuery, Bootstrap, AOS (Animate On Scroll)
